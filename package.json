@@ -1,0 +1,19 @@
+{
+  "name": "rs-pkg-test",
+  "version": "1.0.0",
+  "description": "just test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrey-belchenko/rs-npm-package.git"
+  },
+  "author": "andrey-belchenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrey-belchenko/rs-npm-package/issues"
+  },
+  "homepage": "https://github.com/andrey-belchenko/rs-npm-package#readme"
+}
